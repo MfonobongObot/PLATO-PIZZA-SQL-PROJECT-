@@ -1,12 +1,13 @@
 # PLATO-PIZZA-SQL-PROJECT-
 
 ****Maven Plato Pizza Challenge *****
+
 The dataset used for this project was gotten from Maven Analytics Playground, The dataset contains one year (2015) worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
 In this project, I explored the dataset and analysed it using Microsoft SQL  Server and I used Power Query in Excel to include calculated columns  the code used for analysis can be found in this repository.
 
 **Project Steps**
 	Power query was used to clean the dataset and create calculated columns.
-  Microsoft SQL Server was used to wrangle the dataset and get insight.
+        Microsoft SQL Server was used to wrangle the dataset and get insight.
 
 
 **Business Questions**
